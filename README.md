@@ -1,3 +1,5 @@
+# <span style='color:green'>TG - looking at this in conjunction with Project 5 Topic Discussion - Ensemble Methods: Bagging and Boosting
+
 # experiments_with_python
 
 
@@ -14,4 +16,3 @@ Python 2.7
 sklearn 0.18  
 PyMC 3.1  
 TensorFlow 1.0.1  
-
